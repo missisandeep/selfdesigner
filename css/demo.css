@@ -567,10 +567,10 @@ z-index: 1;
 }
 
 .navbar-inverse {
-	background-color: black;
-	border-color: transparent;
-	position: relative;
-	width: 100%;
+	background-color: transparent;
+    border-color: transparent;
+    position: absolute;
+    width: 100%;
 }
 
 .navbar-inverse .navbar-nav>li>a {
