@@ -973,11 +973,12 @@ navcarbox {
 
 
 .flipkart-navbar-input {
-    padding: 11px 16px;
+        padding: 11px 16px;
     border-radius: 2px 0 0 2px;
     border: 0 none;
     outline: 0 none;
     font-size: 15px;
+    color: #000;
 }
 
 .flipkart-navbar-button {
