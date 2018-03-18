@@ -18,8 +18,8 @@ $(document).ready(function(){
     'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
     'button_list'   :
     [
-    { 'title':'Demo', 'url' : 'http://porfolio.bonchen.net/', 'new_window' : true },
-    { 'title':'Download', 'url':'http://porfolio.bonchen.net/', 'new_window' : false}
+    { 'title':'Demo', 'url' : '', 'new_window' : true },
+    { 'title':'Download', 'url':'', 'new_window' : false}
     ],
     'tags'          : ['Self Portrait']
     },
@@ -31,8 +31,8 @@ $(document).ready(function(){
     'img_title'     : ['jquery elastic grid 6 ', 'jquery elastic grid 7 ', 'jquery elastic grid 8', 'jquery elastic grid 9', 'jquery elastic grid 9'],
     'button_list'   :
     [
-    { 'title':'Demo', 'url' : 'http://porfolio.bonchen.net/', 'new_window' : true },
-    { 'title':'Download', 'url':'http://porfolio.bonchen.net/', 'new_window' : true}
+    { 'title':'Demo', 'url' : '', 'new_window' : true },
+    { 'title':'Download', 'url':'', 'new_window' : true}
     ],
     'tags'          : ['Landscape']
     },
@@ -44,8 +44,8 @@ $(document).ready(function(){
     'img_title'     : ['jquery elastic grid', 'jquery elastic grid', 'jquery elastic grid', 'jquery elastic grid', 'jquery elastic grid'],
     'button_list'   :
     [
-    { 'title':'Demo', 'url' : 'http://porfolio.bonchen.net/', 'new_window' : true },
-    { 'title':'Download', 'url':'http://porfolio.bonchen.net/', 'new_window' : true}
+    { 'title':'Demo', 'url' : '', 'new_window' : true },
+    { 'title':'Download', 'url':'', 'new_window' : true}
     ],
     'tags'          : ['Self Portrait', 'Landscape']
     },
