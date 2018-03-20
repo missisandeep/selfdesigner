@@ -1083,7 +1083,6 @@ svg#bigTriangleColor_1 {
     font-weight: 300;
     line-height: 22px;
     padding-bottom: 30px;
-    text-indent: 10px;
 }
 
 .og-grid li {
@@ -1129,4 +1128,11 @@ svg#bigTriangleColor_1 {
     color: #fff;
     background-color: transparent;
     border-color: #868686;
+}
+
+ .theme_featur_icon {
+	    font-size: 50px;
+    text-align: center;
+    margin-top: 15px;
+    color: #fff;
 }
